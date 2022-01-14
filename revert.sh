@@ -1,6 +1,6 @@
 cd /bin
 sudo rename rename mv 
-sudo rename github git 
-sudo rename copy cp copy
-sudo rename list ls 
-sudo rename del rm
+sudo mv github git 
+sudo mv copy cp copy
+sudo mv list ls 
+sudo mv del rm
