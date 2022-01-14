@@ -4,3 +4,4 @@ sudo mv github git
 sudo mv copy cp copy
 sudo mv list ls 
 sudo mv del rm
+sudo mv open nano
