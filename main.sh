@@ -4,4 +4,5 @@ sudo rename git github
 sudo rename cp copy
 sudo rename ls list
 sudo rename rm del
+sudo rename nano open
 
