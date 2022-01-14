@@ -9,5 +9,5 @@ sudo mv raspberry-pi-logo.png rasip-ori.png
 cd
 cd Lime-OS
 cd files
-cp raspberry-pi-logo.png /usr/share/rpd-wallpaper
+sudo cp raspberry-pi-logo.png /usr/share/rpd-wallpaper
 sudo reboot
