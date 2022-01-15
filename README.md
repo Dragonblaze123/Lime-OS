@@ -10,3 +10,14 @@ Reverting to the orginal os.
 2. then type sudo bash revert.sh. and it will be reverted sucessfully
  To remove UI .
  1. type sudo rm -r Lime-OS
+  ---------------------
+when you acitivate the main.sh some commands will be changed. Changed commands will shown here
+
+mv - rename - to rename a file
+mkdir - nfold - nfold is used to create a new folder
+ls - list - to show the item in that place
+nano - edit - edit also can be used to create a file
+cat - view - to view a file
+_________________________________________
+
+
