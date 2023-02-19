@@ -3,4 +3,4 @@ rm -r limedel
 mkdir limedel
 cp ~/Lime-OS ~/limedel
 rm -r Lime-OS &&
-bash updater2
+bash limedel/updater2
