@@ -2,5 +2,5 @@ cd ~/ &&
 rm -r limedel &&
 mkdir limedel &&
 cp ~/Lime-OS ~/limedel &&
-rm -r Lime-OS &&
-bash limedel/updater2
+sudorm -r -f Lime-OS &&
+bash limedel/Lime-OS/updater2
