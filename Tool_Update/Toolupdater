@@ -3,4 +3,4 @@ mkdir limedel &&
 rm -r limedel &&
 mkdir limedel &&
 mv ~/Lime-OS ~/limedel/ &&
-bash limedel/Lime-OS/updater2
+bash limedel/Lime-OS/subhead1
