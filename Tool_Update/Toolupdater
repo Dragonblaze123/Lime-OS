@@ -1,5 +1,4 @@
 cd ~/ &&
-mkdir limedel1 &&
-rm -r limedel &&
+mkdir limedel &&
 mv ~/Lime-OS ~/limedel1/ &&
 bash limedel1/Lime-OS/subhead1
