@@ -1,4 +1,4 @@
 cd ~/ &&
 mkdir limedel &&
-mv ~/Lime-OS ~/limedel1/ &&
+mv ~/Lime-OS ~/limedel/ &&
 bash limedel/Lime-OS/Tool_Update/subhead1
