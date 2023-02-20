@@ -1,3 +1,3 @@
 cd ~/ &&
 git clone https://github.com/dragonblaze123/Lime-OS &&
-bash Lime-OS/subhead2
+bash Lime-OS/Tool_Update/subhead2
