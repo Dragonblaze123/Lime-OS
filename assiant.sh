@@ -18,7 +18,7 @@ case "$input" in
 ;;
 "i am fine") echo "Good to Know" 
 ;;
-"update tool") bash Tool*/Tool*
+"update tool") bash Tool*/Tool* && exit
 ;;
 "update raspberrypi") bash URT/URT-US
 ;;
