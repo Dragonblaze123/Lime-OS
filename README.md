@@ -89,7 +89,9 @@ echo "Ver:3.0"                             |
   clean                                 -To autremove any unwanted files 
   update chromium                       -To update your chromium
   info                                  -To show the developer
-  
+  reboot                                -To reboot your Raspberry pi
+  delete OS                             -To Delete the Lime-OS and Assiant
+
                                                    Deleting the Lime-OS
                                                    
 if you don't like it and you wish to remove the OS there is no big deals at ALL.

@@ -46,6 +46,8 @@ case "$input" in
 ;;
 "info") echo "made by Dragonblaze123"
 ;;
+"delete OS") bash delui.sh && echo "Deleting in progress" && cd ~/
+;;
 *) echo "Command not found. Only limited commands"
 ;;
 esac 
