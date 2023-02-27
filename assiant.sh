@@ -18,13 +18,17 @@ case "$input" in
 ;;
 "i am fine") echo "Good to Know" 
 ;;
+"quit") echo "Quitting" && exit
+;;
+"how are you") echo "i'm doing great thank for asking"
+;;
 "update tool") bash Tool*/Tool* && exit
 ;;
 "update raspberrypi") bash URT/URT-US
 ;;
 "sorry") echo "no promblemo"
 ;;
-"install server") sudo apt insatll apache2 -y && echo Finished
+"install apache") sudo apt insatll apache2 -y && echo Finished
 ;;
 "install github") sudo apt insatll git -y && echo Finished
 ;;
@@ -38,7 +42,7 @@ case "$input" in
 ;;
 "info") echo "made by Dragonblaze123"
 ;;
-*) echo "Command not found. Only limited commands "
+*) echo "Command not found. Only limited commands"
 ;;
 esac 
 done 
