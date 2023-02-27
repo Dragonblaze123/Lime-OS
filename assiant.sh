@@ -28,6 +28,10 @@ case "$input" in
 ;;
 "sorry") echo "no promblemo"
 ;;
+"reboot") echo "Rebooting" && reboot
+;;
+"shutdown") echo "Shutdowing" && shutdown -h now 
+;;
 "install apache") sudo apt insatll apache2 -y && echo Finished
 ;;
 "install github") sudo apt insatll git -y && echo Finished
