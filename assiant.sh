@@ -2,7 +2,7 @@
 a=1
 echo "Hi How can can i help u" &&
 cd ~/Lime-OS &&
-cat version
+cat ver
 while [ $a -lt 5 ] 
 do
 echo "<Waiting for response>"
