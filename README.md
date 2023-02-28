@@ -72,7 +72,7 @@ bash assiant.sh
                                            |
                                            |                                                                     
  Hi How can can i help u                   |
-echo "Ver:3.0"                             |
+echo "Ver:4.5"                             |
 <Waiting for response>                     |
                                            |
  __________________________________________|       
@@ -106,6 +106,7 @@ Which would Immeditely delete the Lime-OS straight away from your Raspberry Pi
 
                                                                                                 This Document is written by:
                                                                                                               Dragonblaze123
+                                                                                                      On github.com
 
 
 
