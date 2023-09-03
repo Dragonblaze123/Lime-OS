@@ -91,9 +91,12 @@ echo "Ver:4.5"                             |
   info                                  -To show the developer
   reboot                                -To reboot your Raspberry pi
   delete OS                             -To Delete the Lime-OS and Assiant
+  rename mkdir                          -to rename mkdir to nfold
 
+
+  
                                                    Deleting the Lime-OS
-                                                   
+                                                   --------------------
 if you don't like it and you wish to remove the OS there is no big deals at ALL.
 you can Type the command given below:
 
