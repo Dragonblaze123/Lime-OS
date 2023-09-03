@@ -1,4 +1,5 @@
 cd ~/ &&
 git clone https://github.com/dragonblaze123/Lime-OS &&
 rm -r -f limedel &&
+cd &&
 bash Lime-OS/version
