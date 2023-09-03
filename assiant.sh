@@ -2,7 +2,7 @@
 a=1
 echo "Hi How can can i help u" &&
 cd ~/Lime-OS &&
-cat ver
+cat version
 while [ $a -lt 5 ] 
 do
 echo "<Waiting for response>"
@@ -50,5 +50,6 @@ case "$input" in
 ;;
 *) echo "Command not found. Only limited commands"
 ;;
+"change mkdir") cd /bin && sudo nano mkdir nfold && echo "renamed as nfold"
 esac 
 done 
