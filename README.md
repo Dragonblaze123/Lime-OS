@@ -66,11 +66,9 @@ bash assiant.sh
   [NOTE: YOU SHOULD BE IN LIME-OS FOLDER]
   
   You Should be seeing This in the command line
-  
- __________________________________________
+ ________________________________________
                                            |                             
-                                           |
-                                           |                                                                     
+                                           |                                         |                                                                     
  Hi How can can i help u                   |
 echo "Ver:4.5"                             |
 <Waiting for response>                     |
@@ -80,7 +78,6 @@ echo "Ver:4.5"                             |
   That means you should be ready with the assiant.
   There are a some command avalable. It's limited.
   Example:-
-  
   shutdown                              -To shutdown your computer on the spot
   exit or quit or bye                   -To exit the  assiant
   update tool                           -To update the assiant and the Lime-OS to their latest Version
@@ -91,10 +88,8 @@ echo "Ver:4.5"                             |
   info                                  -To show the developer
   reboot                                -To reboot your Raspberry pi
   delete OS                             -To Delete the Lime-OS and Assiant
-  rename mkdir                          -to rename mkdir to nfold
+  rename mkdir                          -to rename mkdir to nfold 
 
-
-  
                                                    Deleting the Lime-OS
                                                    --------------------
 if you don't like it and you wish to remove the OS there is no big deals at ALL.
