@@ -7,3 +7,4 @@ sudo rename rm del
 sudo rename nano edit
 sudo rename mkdir nfold
 sudo rename cat view
+sudo rename bash run
